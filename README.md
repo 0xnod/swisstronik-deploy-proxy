@@ -17,7 +17,7 @@ Tutorial Video : [Youtube](https://youtu.be/IucFidGBwo8?si=AfvMha-QyylsfUg6)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-deploy-proxy.git
+git clone https://github.com/0xnod/swisstronik-deploy-proxy.git
 ```
 
 ```bash
